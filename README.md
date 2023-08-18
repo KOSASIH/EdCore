@@ -1,12 +1,7 @@
 [![Lint Code Base](https://github.com/KOSASIH/EdCore/actions/workflows/super-linter.yml/badge.svg)](https://github.com/KOSASIH/EdCore/actions/workflows/super-linter.yml)
 [![MobSF](https://github.com/KOSASIH/EdCore/actions/workflows/mobsf.yml/badge.svg)](https://github.com/KOSASIH/EdCore/actions/workflows/mobsf.yml)
 
-# EdCore
 
-This application was generated using JHipster 8.0.0-beta.2, you can find documentation and help at [https://www.jhipster.tech/documentation-archive/v8.0.0-beta.2](https://www.jhipster.tech/documentation-archive/v8.0.0-beta.2).
-
-This is a "microservice" application intended to be part of a microservice architecture, please refer to the [Doing microservices with JHipster][] page of the documentation for more information.
-This application is configured for Service Discovery and Configuration with Consul. On launch, it will refuse to start if it is not able to connect to Consul at [http://localhost:8500](http://localhost:8500). For more information, read our documentation on [Service Discovery and Configuration with Consul][].
 
 ## Project Structure
 
