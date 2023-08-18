@@ -1,7 +1,107 @@
 [![Lint Code Base](https://github.com/KOSASIH/EdCore/actions/workflows/super-linter.yml/badge.svg)](https://github.com/KOSASIH/EdCore/actions/workflows/super-linter.yml)
 [![MobSF](https://github.com/KOSASIH/EdCore/actions/workflows/mobsf.yml/badge.svg)](https://github.com/KOSASIH/EdCore/actions/workflows/mobsf.yml)
 
+# EdCore: Augmented Reality (AR) History Education App
 
+EdCore is an innovative Augmented Reality (AR) history education microservice app that leverages the power of Artificial Intelligence (AI) and Machine Learning (ML) to provide an immersive and personalized learning experience. This README file serves as a comprehensive guide to help you understand, set up, and contribute to the EdCore project.
+
+## Table of Contents
+
+- [Introduction](#introduction)
+- [Features](#features)
+- [Getting Started](#getting-started)
+  - [Prerequisites](#prerequisites)
+  - [Installation](#installation)
+- [Usage](#usage)
+- [Contributing](#contributing)
+- [License](#license)
+- [Project Structure](#Project-Structure)
+- [Development](#Development)
+- [PWA Support](#PWA-Support) 
+
+## Introduction
+
+EdCore redefines history education by blending cutting-edge Augmented Reality technology with AI-driven personalization. This microservice app allows users to explore historical events, figures, and places in a truly immersive manner, enhancing engagement and comprehension. Through gamified challenges, collaborative learning, and dynamic content, EdCore transforms history education into an interactive adventure.
+
+## Features
+
+- **Immersive AR Experiences:** Step into historical events and places with vivid 3D reconstructions, creating an unparalleled learning experience.
+
+- **Personalized Learning:** AI algorithms analyze user preferences and learning patterns to deliver tailored content, ensuring optimal engagement and retention.
+
+- **Gamified Challenges:** Test your historical knowledge through interactive quizzes and challenges, making learning fun and rewarding.
+
+- **Collaborative Learning:** Connect with peers and educators in virtual study groups, enabling collaborative exploration and discussion.
+
+- **Global Access:** EdCore extends education to underserved areas with limited access to historical sites, providing a gateway to the past.
+
+- **Real-time Interactions:** Engage with AR elements and historical characters in real-time, enhancing understanding and engagement.
+
+- **Rich Resources:** Access a curated repository of historical resources, documents, and multimedia to deepen contextual understanding.
+
+## Getting Started
+
+### Prerequisites
+
+- Node.js and npm
+- Docker
+- AR SDK (e.g., AR.js, A-Frame)
+- AI/ML Libraries (e.g., TensorFlow, scikit-learn)
+- Your preferred code editor
+
+### Installation
+
+1. Clone the EdCore repository:
+   ```bash
+   git clone https://github.com/KOSASIH/edcore.git
+   cd edcore
+   ```
+
+2. Install the required dependencies:
+   ```bash
+   npm install
+   ```
+
+3. Set up your AR SDK and configure AI/ML libraries as needed.
+
+4. Launch the EdCore app:
+   ```bash
+   npm start
+   ```
+
+5. Access the app in your browser at `http://localhost:3000`.
+
+## Usage
+
+1. Explore AR History: Launch the app, select a historical event or place, and use your device's camera to experience AR content.
+
+2. Personalized Learning: Engage with quizzes and challenges tailored to your learning style and progress.
+
+3. Collaborative Learning: Join virtual study groups to share insights and discuss historical topics.
+
+4. Gamified Challenges: Test your historical knowledge with interactive challenges and earn rewards.
+
+## Contributing
+
+We welcome contributions from the community to enhance EdCore's features and capabilities. To contribute, follow these steps:
+
+1. Fork the repository and create a new branch for your feature/fix.
+
+2. Make your changes, add tests if applicable, and ensure the code follows the project's coding standards.
+
+3. Commit your changes and push the branch to your fork.
+
+4. Open a pull request, describing your changes and the problem they solve.
+
+5. Participate in the review process and make necessary adjustments.
+
+## License
+
+EdCore is released under the [MIT License](LICENSE). Feel free to use, modify, and distribute the code as per the terms of the license.
+
+---
+
+Thank you for your interest in EdCore! We hope this README provides you with a comprehensive understanding of the app's features, setup, and contribution guidelines. If you have any questions or need assistance, please reach out to our development team at devteam@edcoreapp.com. Happy learning!
 
 ## Project Structure
 
