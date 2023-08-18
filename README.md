@@ -10,7 +10,8 @@ EdCore is an innovative Augmented Reality (AR) history education microservice ap
 - [Introduction](#introduction)
 - [Features](#features)
 - [Vision And Mission](#vision-and-mission)
-- [Technologies We Use](#technologies-we-use) 
+- [Technologies We Use](#technologies-we-use)
+- [Our Roadmap](#our-roadmap) 
 - [Getting Started](#getting-started)
   - [Prerequisites](#prerequisites)
   - [Installation](#installation)
@@ -121,6 +122,54 @@ EdCore leverages a powerful blend of cutting-edge technologies to deliver its im
     - Documentation: Markdown, Swagger, or similar for API documentation.
 
 EdCore's technology stack is carefully chosen to deliver a seamless and innovative history education experience. By integrating these technologies, we create an app that not only educates but also inspires learners to engage with history in entirely new ways.
+
+# Our Roadmap
+
+**EdCore Roadmap**
+
+At EdCore, we are committed to continuous innovation and improvement. Our roadmap outlines the exciting milestones and features we have planned for the future, as we strive to enhance the Augmented Reality (AR) history education experience and expand the reach of our platform. Here's what you can expect from EdCore in the coming months and years:
+
+**Quarter 1 - Enhancing Immersion (Current Quarter)**
+
+- **Enhanced AR Interactions:** Introduce more interactive elements within AR scenes, allowing users to manipulate historical objects and engage with characters in real-time.
+
+- **Multi-Platform Support:** Extend AR experiences to a wider range of devices, including smartphones, tablets, and AR glasses.
+
+**Quarter 2 - Personalization and Gamification**
+
+- **Advanced AI Algorithms:** Refine our AI algorithms for even more precise content personalization, adapting to individual learning styles and preferences.
+
+- **Gamified Learning Paths:** Introduce dynamic learning paths with gamified challenges, quizzes, and rewards tailored to each user's progress.
+
+**Quarter 3 - Global Accessibility and Collaboration**
+
+- **Localization:** Translate content into multiple languages to make EdCore accessible to learners around the world.
+
+- **Enhanced Collaborative Tools:** Develop advanced collaboration features, enabling real-time discussions, group projects, and peer-to-peer interactions.
+
+**Quarter 4 - Expanding Historical Content**
+
+- **New Historical Eras:** Introduce additional historical eras, events, and figures to provide a broader range of immersive AR experiences.
+
+- **Curated Learning Journeys:** Offer pre-designed learning journeys that guide users through a curated sequence of historical events for a comprehensive educational experience.
+
+**Year 2 - Empowering Educators**
+
+- **Educator Portal:** Launch a dedicated portal for educators to create, customize, and share AR-enhanced lesson plans and assignments.
+
+- **Teacher Training Programs:** Collaborate with educators to provide training programs on integrating EdCore into classrooms effectively.
+
+**Year 3 - Continuous Learning and Beyond**
+
+- **Lifelong Learning Initiatives:** Partner with institutions to establish lifelong learning programs and engage learners of all ages.
+
+- **AI-Enhanced Assessments:** Develop AI-driven assessment tools that provide detailed insights into individual learning progress and areas for improvement.
+
+Our roadmap reflects our dedication to transforming history education through AR, AI, and collaboration. As technology advances and educational needs evolve, EdCore will continue to evolve, offering an ever-improving platform that bridges the gap between past and present, and empowers learners worldwide.
+
+Stay connected with EdCore for updates, announcements, and exciting new features as we embark on this exciting journey together.
+
+_Last updated: August 18, 2023_
 
 ## Getting Started
 
