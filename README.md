@@ -15,9 +15,9 @@ EdCore is an innovative Augmented Reality (AR) history education microservice ap
 - [Usage](#usage)
 - [Contributing](#contributing)
 - [License](#license)
-- [Project Structure](#Project-Structure)
-- [Development](#Development)
-- [PWA Support](#PWA-Support) 
+- [Project Structure](#project-structure)
+- [Development](#development)
+- [PWA Support](#pwa-support) 
 
 ## Introduction
 
