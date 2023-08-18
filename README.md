@@ -9,6 +9,7 @@ EdCore is an innovative Augmented Reality (AR) history education microservice ap
 
 - [Introduction](#introduction)
 - [Features](#features)
+- [Vision And Mission](#vision-and-mission) 
 - [Getting Started](#getting-started)
   - [Prerequisites](#prerequisites)
   - [Installation](#installation)
@@ -47,6 +48,26 @@ EdCore redefines history education by blending cutting-edge Augmented Reality te
 - **Real-time Interactions:** Engage with AR elements and historical characters in real-time, enhancing understanding and engagement.
 
 - **Rich Resources:** Access a curated repository of historical resources, documents, and multimedia to deepen contextual understanding.
+
+## Vision And Mission
+
+**Vision:**
+Empower learners to transcend time through immersive augmented reality, fostering a deeper understanding of history and promoting a global culture of curiosity and education.
+
+**Mission:**
+Our mission is to revolutionize history education by harnessing the potential of augmented reality (AR), artificial intelligence (AI), and machine learning (ML). We are committed to providing a transformative learning experience that:
+
+- **Engages:** We engage learners of all ages and backgrounds by bringing historical events, figures, and places to life through immersive AR experiences.
+
+- **Personalizes:** Our AI-powered platform tailors educational content to individual learning styles and preferences, ensuring a highly personalized and effective learning journey.
+
+- **Empowers:** By breaking geographical barriers, we empower underserved communities with access to a rich tapestry of historical knowledge that was previously out of reach.
+
+- **Inspires Collaboration:** EdCore fosters collaborative learning environments, connecting students, educators, and history enthusiasts to collectively explore and interpret history's complexities.
+
+- **Cultivates Curiosity:** We cultivate a lifelong passion for learning by transforming history from a distant past into a dynamic and interactive present, fueling curiosity and critical thinking.
+
+At EdCore, we are driven by our vision to enable learners to transcend time, fostering a world where history is not just studied, but experienced, understood, and cherished. Our mission is to pave the way for a future where history education is no longer confined to textbooks and lectures, but a living, breathing exploration that captivates minds and ignites imaginations.
 
 ## Getting Started
 
