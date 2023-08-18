@@ -9,7 +9,8 @@ EdCore is an innovative Augmented Reality (AR) history education microservice ap
 
 - [Introduction](#introduction)
 - [Features](#features)
-- [Vision And Mission](#vision-and-mission) 
+- [Vision And Mission](#vision-and-mission)
+- [Technologies We Use](#technologies-we-use) 
 - [Getting Started](#getting-started)
   - [Prerequisites](#prerequisites)
   - [Installation](#installation)
@@ -68,6 +69,58 @@ Our mission is to revolutionize history education by harnessing the potential of
 - **Cultivates Curiosity:** We cultivate a lifelong passion for learning by transforming history from a distant past into a dynamic and interactive present, fueling curiosity and critical thinking.
 
 At EdCore, we are driven by our vision to enable learners to transcend time, fostering a world where history is not just studied, but experienced, understood, and cherished. Our mission is to pave the way for a future where history education is no longer confined to textbooks and lectures, but a living, breathing exploration that captivates minds and ignites imaginations.
+
+## Technologies We Use
+
+EdCore leverages a powerful blend of cutting-edge technologies to deliver its immersive Augmented Reality (AR) history education experience, personalized learning, and collaborative features. Our technology stack is carefully selected to create a seamless and engaging user experience while ensuring scalability, performance, and security. Some of the key technologies we use include:
+
+1. **Augmented Reality (AR) Frameworks:**
+   - AR.js: Bringing AR experiences to the web using JavaScript and web standards.
+   - A-Frame: A web framework for building virtual reality (VR) experiences with HTML and JavaScript.
+   - WebXR: Enabling AR and VR experiences directly in web browsers.
+
+2. **Artificial Intelligence (AI) and Machine Learning (ML):**
+   - TensorFlow: An open-source machine learning framework for building AI models.
+   - scikit-learn: A versatile ML library for classification, regression, clustering, and more.
+   - Natural Language Processing (NLP) libraries: NLTK, SpaCy, or similar for text analysis.
+
+3. **Backend and API Development:**
+   - Node.js: A runtime environment for building scalable and efficient server-side applications.
+   - Express.js: A web application framework for Node.js that simplifies routing and middleware.
+
+4. **Frontend Development:**
+   - Angular or React: Modern frontend frameworks for building interactive user interfaces.
+   - Webpack: A module bundler for managing frontend assets and dependencies.
+
+5. **Database and Data Storage:**
+   - MongoDB: A NoSQL database for storing dynamic and flexible data structures.
+   - MySQL or PostgreSQL: Relational databases for structured data storage.
+
+6. **Cloud Services and Deployment:**
+   - Docker: Containerization for consistent and isolated app deployment.
+   - Kubernetes or OpenShift: Container orchestration for managing app deployment at scale.
+   - IBM Cloud Pak or similar: For deploying and managing cloud-native applications.
+
+7. **Version Control and Collaboration:**
+   - Git: Distributed version control system for tracking code changes and collaborating.
+   - GitHub: Hosting platform for version control, code review, and collaboration.
+
+8. **Authentication and Security:**
+   - OAuth or JWT: Secure user authentication and authorization.
+   - HTTPS: Secure communication between clients and servers.
+
+9. **Testing and Quality Assurance:**
+   - Jest or Mocha: JavaScript testing frameworks for unit and integration tests.
+   - Continuous Integration (CI) tools: Jenkins, Travis CI, or GitHub Actions for automated testing.
+
+10. **Analytics and Monitoring:**
+    - Prometheus and Grafana: Monitoring and alerting for app performance and health.
+
+11. **Project Management and Documentation:**
+    - Agile methodologies: Scrum or Kanban for project management.
+    - Documentation: Markdown, Swagger, or similar for API documentation.
+
+EdCore's technology stack is carefully chosen to deliver a seamless and innovative history education experience. By integrating these technologies, we create an app that not only educates but also inspires learners to engage with history in entirely new ways.
 
 ## Getting Started
 
