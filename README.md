@@ -1,3 +1,4 @@
+[![Lint Code Base](https://github.com/KOSASIH/EdCore/actions/workflows/super-linter.yml/badge.svg)](https://github.com/KOSASIH/EdCore/actions/workflows/super-linter.yml)
 [![MobSF](https://github.com/KOSASIH/EdCore/actions/workflows/mobsf.yml/badge.svg)](https://github.com/KOSASIH/EdCore/actions/workflows/mobsf.yml)
 
 # EdCore
