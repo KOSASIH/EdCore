@@ -22,7 +22,7 @@ EdCore is an innovative Augmented Reality (AR) history education microservice ap
 - [Developing Microfrontend](#developing-microfrontend)
 - [Using Angular CLI](#using-angular-cli)
 - [JHipster Control Center](#jhipster-control-center)
-- [OAuth 2.0 / OpenID Connect](#OAuth-2.0-/-openID-connect)
+- [OAuth 2.0 / OpenID Connect](#oauth-20--openid-connect)
 - [Okta](#okta)
 - [Auth0](#auth0)
 - [Doing API-First development using openapi-generator-cli](#doing-api-first-development-using-openapi-generator-cli)
